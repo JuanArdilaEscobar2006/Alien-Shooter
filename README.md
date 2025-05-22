@@ -14,18 +14,22 @@ GPU: Compatible con DirectX 11
 
 Espacio en disco: 1 GB
 
-▶️ Ejecutar el Proyecto
-Abre Unity Hub.
+
+Ejecutar el Proyecto
+
+
+Abrir Unity Hub.
 
 Haz clic en "Add" y selecciona la carpeta donde clonaste el proyecto.
 
-Abre el proyecto desde Unity Hub.
+Abrir el proyecto desde Unity Hub.
 
-Abre la escena principal ubicada en Assets/Scenes/MainLevel.unity (o la ruta correspondiente).
+Abrir la escena principal ubicada en Assets/Scenes/MainLevel.unity (o la ruta correspondiente).
 
 Haz clic en "Play" para comenzar a jugar dentro del editor.
 
-🎮 Controles
+ 
+ Controles
 Acción	Tecla
 Moverse	W A S D
 Apuntar	Ratón
